@@ -1,0 +1,15 @@
+C:\dhanar_rizky_krisnadhy\FRAMEWORK\LearningByMySelf\Project\AnimeRate\src\AnimeRate.DataBusiness\bin\Debug\net7.0\AnimeRate.DataBusiness.exe
+C:\dhanar_rizky_krisnadhy\FRAMEWORK\LearningByMySelf\Project\AnimeRate\src\AnimeRate.DataBusiness\bin\Debug\net7.0\AnimeRate.DataBusiness.deps.json
+C:\dhanar_rizky_krisnadhy\FRAMEWORK\LearningByMySelf\Project\AnimeRate\src\AnimeRate.DataBusiness\bin\Debug\net7.0\AnimeRate.DataBusiness.runtimeconfig.json
+C:\dhanar_rizky_krisnadhy\FRAMEWORK\LearningByMySelf\Project\AnimeRate\src\AnimeRate.DataBusiness\bin\Debug\net7.0\AnimeRate.DataBusiness.dll
+C:\dhanar_rizky_krisnadhy\FRAMEWORK\LearningByMySelf\Project\AnimeRate\src\AnimeRate.DataBusiness\bin\Debug\net7.0\AnimeRate.DataBusiness.pdb
+C:\dhanar_rizky_krisnadhy\FRAMEWORK\LearningByMySelf\Project\AnimeRate\src\AnimeRate.DataBusiness\obj\Debug\net7.0\AnimeRate.DataBusiness.csproj.AssemblyReference.cache
+C:\dhanar_rizky_krisnadhy\FRAMEWORK\LearningByMySelf\Project\AnimeRate\src\AnimeRate.DataBusiness\obj\Debug\net7.0\AnimeRate.DataBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\dhanar_rizky_krisnadhy\FRAMEWORK\LearningByMySelf\Project\AnimeRate\src\AnimeRate.DataBusiness\obj\Debug\net7.0\AnimeRate.DataBusiness.AssemblyInfoInputs.cache
+C:\dhanar_rizky_krisnadhy\FRAMEWORK\LearningByMySelf\Project\AnimeRate\src\AnimeRate.DataBusiness\obj\Debug\net7.0\AnimeRate.DataBusiness.AssemblyInfo.cs
+C:\dhanar_rizky_krisnadhy\FRAMEWORK\LearningByMySelf\Project\AnimeRate\src\AnimeRate.DataBusiness\obj\Debug\net7.0\AnimeRate.DataBusiness.csproj.CoreCompileInputs.cache
+C:\dhanar_rizky_krisnadhy\FRAMEWORK\LearningByMySelf\Project\AnimeRate\src\AnimeRate.DataBusiness\obj\Debug\net7.0\AnimeRate.DataBusiness.dll
+C:\dhanar_rizky_krisnadhy\FRAMEWORK\LearningByMySelf\Project\AnimeRate\src\AnimeRate.DataBusiness\obj\Debug\net7.0\refint\AnimeRate.DataBusiness.dll
+C:\dhanar_rizky_krisnadhy\FRAMEWORK\LearningByMySelf\Project\AnimeRate\src\AnimeRate.DataBusiness\obj\Debug\net7.0\AnimeRate.DataBusiness.pdb
+C:\dhanar_rizky_krisnadhy\FRAMEWORK\LearningByMySelf\Project\AnimeRate\src\AnimeRate.DataBusiness\obj\Debug\net7.0\AnimeRate.DataBusiness.genruntimeconfig.cache
+C:\dhanar_rizky_krisnadhy\FRAMEWORK\LearningByMySelf\Project\AnimeRate\src\AnimeRate.DataBusiness\obj\Debug\net7.0\ref\AnimeRate.DataBusiness.dll
