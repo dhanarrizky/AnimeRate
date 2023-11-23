@@ -4,4 +4,5 @@ namespace AnimeRate.DataBusiness;
 public interface IAnimeRepository
 {
     public List<Anime> GetAllAnime();
+    public Anime GetAnimeByID(int id);
 }
